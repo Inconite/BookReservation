@@ -1,0 +1,47 @@
+
+footer p{
+	font-size: 16px;
+	font-weight: bold;
+	margin: 30px;
+}
+
+footer {
+    background-size: cover;
+    opacity: 1.0;
+    height: 80px;
+    background-color: #28d7cf;
+    border-radius: 3px;
+    margin-top: 75px;
+}
+footer .logo {
+    width: auto;
+    float: left;
+}
+
+footer nav{
+	float:right;
+  	width: auto;
+  	margin: 15.5px 20px;
+}
+
+footer nav ul {
+    list-style-type: none;
+    float: right;
+}
+
+footer nav li {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: sans-serif;
+    background-color: #222;
+    display: inline;
+    padding: 8px 25px;
+    border: 1px solid #111;
+    border-radius: 5px;
+    color: #fff;
+}
+
+footer nav li a{
+	color: #fff;
+	text-decoration: none;
+}

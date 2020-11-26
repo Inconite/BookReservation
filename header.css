@@ -1,0 +1,48 @@
+
+header p{
+	font-size: 25px;
+    font-weight: bold;
+    padding-left: 25px;
+}
+
+header {
+    background-size: cover;
+    opacity: 1.0;
+    height: 80px;
+    background-color: #28d7cf;
+    border-radius: 3px;
+    margin-bottom: 75px;
+}
+header .logo {
+    width: auto;
+    float: left;
+}
+
+header nav{
+	float:right;
+  	width: auto;
+  	margin: 15.5px 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+    float: right;
+}
+
+header nav li {
+	margin-left: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: sans-serif;
+    background-color: #222;
+    display: inline;
+    padding: 8px 20px;
+    border: 1px solid #111;
+    border-radius: 5px;
+    color: #fff;
+}
+
+header nav li a{
+	color: #fff;
+	text-decoration: none;
+}
